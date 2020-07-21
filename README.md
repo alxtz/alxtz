@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://miro.medium.com/max/700/1*WXdDO4LvMaY_RTwk8_Xh5A.png">
+
 <!--
 **alxtz/alxtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
